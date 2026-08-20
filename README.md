@@ -1,16 +1,47 @@
-## Hi there 👋
+<h1 align="left">Hi, I'm Ishika 👋</h1>
 
-<!--
-**Ishika-ydv/Ishika-ydv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+Full-stack developer specializing in the <b>MERN stack</b>, with a focus on <b>IoT-connected web applications</b>.
+I like building systems where hardware and software actually talk to each other — not just CRUD apps.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+🌐 Portfolio: <a href="#">your-portfolio-link.com</a> &nbsp;|&nbsp;
+💼 LinkedIn: <a href="#">linkedin.com/in/your-handle</a> &nbsp;|&nbsp;
+📫 Email: <a href="#">you@email.com</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🔧 What I work with
+
+**Frontend:** React, Next.js, Tailwind CSS, JavaScript/TypeScript
+**Backend:** Node.js, Express, MongoDB
+**IoT / Hardware:** *(fill in — e.g. Arduino, Raspberry Pi, MQTT, sensor integration)*
+**Tools:** Git, Vercel/Netlify, Postman, *(add your usual stack)*
+
+---
+
+### 🚀 Featured Projects
+
+**[Project 1 Name](#)**
+One line on what problem it solves and who it's for — not just "a MERN app." e.g. *"An IoT dashboard that streams live sensor data to a React frontend via WebSockets, cutting manual monitoring time by X%."*
+`React` `Node.js` `MongoDB` `MQTT`
+
+**[Project 2 Name](#)**
+Same format — problem, approach, outcome. Quantify impact where you can (users, performance gain, data volume handled).
+`Express` `IoT` `Tailwind`
+
+---
+
+### 📌 Currently
+
+- Building out my portfolio and expanding my project pipeline
+- Open to full-stack / IoT development roles — *(edit or remove this line based on your actual status)*
+
+---
+
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=Ishika-ydv&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" height="160"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ishika-ydv&theme=tokyonight&hide_border=true" alt="GitHub streak" height="160"/>
+</p>
