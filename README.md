@@ -7,8 +7,8 @@ I like building systems where hardware and software actually talk to each other 
 
 <p align="left">
 🌐 Portfolio: <a href="#">your-portfolio-link.com</a> &nbsp;|&nbsp;
-💼 LinkedIn: <a href="#">linkedin.com/in/your-handle</a> &nbsp;|&nbsp;
-📫 Email: <a href="#">you@email.com</a>
+💼 LinkedIn: <a href="#">www.linkedin.com/in/ishika-yadav-054858314](https://www.linkedin.com/in/ishika-yadav-054858314/</a> &nbsp;|&nbsp;
+📫 Email: <a href="#">ishiika.ydv@gmail.com</a>
 </p>
 
 ---
